@@ -1,1 +1,1 @@
-# C-MagicMath
+# C++MagicMath
