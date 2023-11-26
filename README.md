@@ -9,4 +9,3 @@ Welcome to C++MagicMath, your magical repository for competitive programming mat
 - [Contribute](https://github.com/subhadeeppaul/CPlusPlusMagicMath/blob/main/Readme-Files/3-Contribute.md)
 - [How to Use](https://github.com/subhadeeppaul/CPlusPlusMagicMath/blob/main/Readme-Files/5-HowToUse.md)
 - [Updates](https://github.com/subhadeeppaul/CPlusPlusMagicMath/blob/main/Readme-Files/6-Updates.md)
-- [License](https://github.com/subhadeeppaul/CPlusPlusMagicMath/blob/main/Readme-Files/7-License.md)
