@@ -4,4 +4,4 @@ Welcome to C++MagicMath, your magical repository for competitive programming mat
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
+1. [Introduction](#[introduction](https://github.com/subhadeeppaul/CPlusPlusMagicMath/blob/main/Readme-Files/1-Introduction.md)https://github.com/subhadeeppaul/CPlusPlusMagicMath/blob/main/Readme-Files/1-Introduction.md)
