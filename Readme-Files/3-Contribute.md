@@ -10,7 +10,7 @@ Contribute your own magical spells to enhance the power of C++MagicMath! Whether
 2. **Clone Your Fork:**
    - Clone your forked repository to your local machine.
      ```bash
-     git clone https://github.com/your-username/C++MagicMath.git
+     git clone https://github.com/subhadeeppaul/CPlusPlusMagicMath.git
      cd C++MagicMath
      ```
 
